@@ -1,2 +1,3 @@
 some kind of a text
 for one commit
+for other commit
